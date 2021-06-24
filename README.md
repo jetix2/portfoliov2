@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orel Malki</h1>
-<h3 align="center">🌞and this is Portfolio🌞</h3>
+<h3 align="center">🌞and this is my Portfolio🌞</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jetix2&label=Profile%20views&color=0e75b6&style=flat" alt="jetix2" /> </p>
 
