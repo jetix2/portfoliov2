@@ -5,13 +5,13 @@ export default function About() {
     <section id="about">
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
+          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-black dark:text-white">
             Hi, I'm Orel Malki.
             <br className="hidden lg:inline-block" />I love to build simple and clean
             apps.
           </h1>
-          <p className="mb-8 leading-relaxed">
-          With technical knowledge in every essential field of web design. Hardworking, punctual and comitted. Capable of expressing my developing abilities in multiple projects, translating my experience into increasing the customer base through promotion and marketing on social networks. Ready for intensive work in a dynamic and challenging work environment with excellent human relations.
+          <p className="mb-8 leading-relaxed dark:text-gray-200">
+          With technical knowledge in every essential field of web design. Hardworking, punctual and committed. Capable of expressing my developing abilities in multiple projects, translating my experience into increasing the customer base through promotion and marketing on social networks. Ready for intensive work in a dynamic and challenging work environment with excellent human relations.
           </p>
           <div className="flex justify-center">
             <a
@@ -21,7 +21,7 @@ export default function About() {
             </a>
             <a
               href="#projects"
-              className="ml-4 inline-flex text-gray-300 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+              className="ml-4 inline-flex text-white bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
                 Check My Projects
             </a>
           </div>
