@@ -37,14 +37,14 @@ export const testimonials = [
   {
     quote:
       '"If you get up in the morning and think the future is going to be better,it is a bright day. Otherwise, its not. "',
-    image: "downloadd.jpg",
+    image: "downloadd.jpeg",
     name: "Elon Musk",
     company: "SpaceX",
   },
   {
     quote:
     '"Leadership means that a group, large or small, is willing to entrust authority to a person who has shown judgment, wisdom, personal appeal, and proven competence."',
-    image: "./download.jpg",
+    image: "download.jpeg",
     name: "Walt Disney",
     company: "Disney",
   },
