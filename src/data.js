@@ -8,6 +8,22 @@ export const projects = [
     link: "https://nettodino.netlify.app",
   },
   {
+    title: "My Blog Gatsby",
+    subtitle: "REACT + Gatsby + GraphQL",
+    description:
+      "MyBlog - You own custom made Gatsby website, made with styled components, for database and query i have used GraphQL and for the blogs MARKDOWN files for a easy well made blog.",
+    image: "./project-5.gif",
+    link: "http://orelblog.netlify.app/",
+  },
+  {
+    title: "Mega Clean Cleaning Service",
+    subtitle: "Landing Page HTML,CSS,JS",
+    description:
+      "Mega Clean - a veteran couch cleaning company with over 5 years of experiance a beatiful functioning single landing page using HTML,CSS and simple javascript fully domained and running.",
+    image: "./project-6.gif",
+    link: "https://www.mega-clean.co.il/",
+  },
+  {
     title: "BobBeat Task App",
     subtitle: "React Hooks",
     description:
